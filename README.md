@@ -1,2 +1,2 @@
 #This is branch feature2
-#Test reset commit
+#Test reset commit 2
