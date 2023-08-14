@@ -1,10 +1,10 @@
-version: "3"
-services:
-    web:
-      image: "kodekloud/simple-webapp"
-      ports:
-        - 8000:8000
-    server:
-      image: "nginx"
-      ports:
-        - 8001:8000
+# version: "3"
+# services:
+#     web:
+#       image: "kodekloud/simple-webapp"
+#       ports:
+#         - 8000:8000
+#     server:
+#       image: "nginx"
+#       ports:
+#         - 8001:8000
